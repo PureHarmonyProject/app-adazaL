@@ -1,2 +1,2 @@
-# app-Lazada
-Lazada app for HarmonyOS
+# app-adazaL
+adazaL app for HarmonyOS
